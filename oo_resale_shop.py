@@ -1,9 +1,3 @@
-"""
-Filename: oo_resale_shop.pyei
-Description: Defines the ResaleShop class
-Author: Kamilla
-"""
-
 class ResaleShop:
     """
     ResaleShop represents the store that can store inventory and buy, sell, refurbish, and print the inventory.

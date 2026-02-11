@@ -1,9 +1,3 @@
-"""
-Filename: computer.py
-Description: Defines the Computer class
-Author: Kamilla 
-"""
-
 class Computer:
     """
     A Computer is one computer item in the resale shop. It stores computer's details and includes methods to update it.
